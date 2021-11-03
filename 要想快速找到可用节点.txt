@@ -1,0 +1,2 @@
+要想快速找到可用节点，直接到github/wuxinqi/dailichi中下载0-8的proxies
+每一个都有上千个节点，导入winxary中测速，完了制作成clash配置文件
