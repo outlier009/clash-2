@@ -1,0 +1,150 @@
+ 科学上网选择节点的问题
+科学上网选择节点是最关键最重要的一环工作，关系到连接速度和质量的问题，下载最新的节点导入很重要。下面就几种方法简单介绍如下：
+第一种就是从代理池下载节点通过不良林的测速软件检测，最后复制导出节点，或制作成clash配置文件使用。
+第二种还是从代理池下载节点通过winxary客户端检测，除去不合用的节点后，转换成各种类型的节点导出。也可以导入Clash .NET中转换成Clash配置文件在Clash for Windows中使用。
+第三种方法就是在别人分享出来的节点中通过以上两种方法来精选节点使用。
+第四种方法就是在现有的节点中精选，包括各种正在使用的软件中客户端中淘汰不能使用的节点，整合后使用。
+第五种方法就是使用免费上网账户提供的节点，如https://free-ss.site/或着http://ss.pythonic.life/subscribe
+ 
+ 
+
+在github.com搜索wuxinqi/xuan下载并解压，点击运行里面nodesCatch黑色图标，把从不同地方找到的节点导入，一键测试。全选复制粘贴到winxary或SSTAP或clash.net中使用即可科学上网。
+ 还有一种找节点的方法是在已有的clash配置文件中找，复制粘贴到winxary再转至测速软件导出。
+
+https://sites.google.com/d/1agTpMV2mr8bfsNe1h8I31G5YN3x_gP2G/p/1te1lXWpb_6caJ1e5Mw-e0wdfwwP2S6my/edit
+自动检测节点工具
+https://github.com/wuxinqi/zidong
+https://hello.stgod.com/clash/config
+https://jiedian.faka77.tk/clash/config
+https://www.qunima.cc/clash/config
+https://hm2019721.ml/clash/config
+http://8.136.5.236/clash/config
+https://1rmb.tk/clash/config
+https://etproxypool.cf/clash/config
+https://free.kingfu.cf/clash/config
+https://www.qunima.cc/clash/config
+https://sspool.herokuapp.com/
+ https://sspool.herokuapp.com
+https://www.clashpool.ml/
+http://emby.luoml.eu.org/
+http://60.205.189.25/
+https://1rmb.tk/
+https://free.kingfu.cf/
+https://www.qunima.cc/
+https://free886.herokuapp.com/
+https://upan.tk
+订阅链接
+ss的json链接：https://0520.ml/ss/sub
+ ss的sip002链接：https://0520.ml/sip002/sub
+ ssr订阅链接：https://0520.ml/ssr/sub
+ vmess订阅链接：https://0520.ml/vmess/sub
+ SS	https://www.qunima.cc/ss/sub
+ss-sip002	https://www.qunima.cc/sip002/sub
+ssr   https://www.qunima.cc/ssr/sub	
+虚拟机   https://www.qunima.cc/vmess/sub 
+木马   https://www.qunima.cc/trojan/sub
+ 所有节点   https://free.kingfu.cf/clash/proxies  
+筛选节点示例  https://free.kingfu.cf/clash/proxies?c=CN,HK,TW&speed=15,30&type=ss
+https://free.kingfu.cf/clash/proxies?filter=1
+ 所有节点
+https://free.kingfu.cf/clash/proxies
+ https://etproxypool.cf/clash/proxies
+ss https://free.kingfu.cf/ss/sub 
+ss-sip002	https://free.kingfu.cf/sip002/sub 
+ssr   https://free.kingfu.cf/ssr/sub
+vmess https://free.kingfu.cf/vmess/sub  
+trojan  https://free.kingfu.cf/trojan/sub
+ 
+SS	https://www.qunima.cc/ss/sub
+ss-sip002	https://www.qunima.cc/sip002/sub
+ssr   https://www.qunima.cc/ssr/sub	
+虚拟机   https://www.qunima.cc/vmess/sub 
+木马   https://www.qunima.cc/trojan/sub
+ss https://etproxypool.cf/ss/sub
+ss-sip002	https://etproxypool.cf/sip002/sub
+ssr   https://etproxypool.cf/ssr/sub  
+vmess https://etproxypool.cf/vmess/sub
+trojan  https://etproxypool.cf/trojan/sub
+https://1rmb.tk/clash/proxies
+ss https://1rmb.tk/ss/sub	
+ss-sip002	https://1rmb.tk/sip002/sub	
+ssr   https://1rmb.tk/ssr/sub 
+vmess https://1rmb.tk/vmess/sub	
+trojan  https://1rmb.tk/trojan/sub
+ss: http://8.136.5.236/ss/sub
+ss-sip002: http://8.136.5.236/sip002/sub
+ssr: http://8.136.5.236/ssr/sub
+vmess: http://8.136.5.236/vmess/sub
+trojan: http://8.136.5.236/trojan/sub
+全部订阅：http://8.136.5.236/clash/proxies
+ShadowRocket复制订阅
+https://hm2019721.ml/clash/proxies
+ss https://hm2019721.ml/ss/sub  
+ss-sip002	https://hm2019721.ml/sip002/sub  
+ssr   https://hm2019721.ml/ssr/sub 
+vmess https://hm2019721.ml/vmess/sub  
+trojan  https://hm2019721.ml/trojan/sub
+ss: https://hello.stgod.com/ss/sub
+ss-sip002: https://hello.stgod.com/sip002/sub
+ssr: https://hello.stgod.com/ssr/sub
+vmess: https://hello.stgod.com/vmess/sub
+trojan: https://hello.stgod.com/trojan/sub
+ss https://www.qunima.cc/ss/sub
+ss-sip002	https://www.qunima.cc/sip002/sub
+ssr   https://www.qunima.cc/ssr/sub	
+vmess https://www.qunima.cc/vmess/sub 
+trojan  https://www.qunima.cc/trojan/sub 
+ 
+ 
+全部订阅：https://jiedian.faka77.tk/clash/proxies
+常用国家：https://jiedian.faka77.tk/clash/proxies?c=HK,TW,US,JP,SG
+ss: https://jiedian.faka77.tk/ss/sub
+ss-sip002: https://jiedian.faka77.tk/sip002/sub
+ssr: https://jiedian.faka77.tk/ssr/sub
+vmess: https://jiedian.faka77.tk/vmess/sub
+trojan: https://jiedian.faka77.tk/trojan/sub
+ 
+ 
+https://sspool.herokuapp.com
+ https://www.clashpool.ml
+ 
+https://1rmb.tk
+ KingFu景福@YouTuBe-永久免费ss、ssr、vmess、torjan节点分享
+将结果来源限定为 free.kingfu.cfhttps://free.kingfu.cf
+Free Proxies
+将结果来源限定为 qunima.cchttps://www.qunima.cc
+ 
+免费节点 - Heroku
+将结果来源限定为 free886.herokuapp.comhttps://free886.herokuapp.com
+ 
+免费节点
+将结果来源限定为 upan.tkhttps://upan.tk
+
+Clash.NET的下载与使用
+ 
+ 
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/tag/v1.1.2
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.1.2/Clash.NET.1.1.2.x64.Setup.exe
+https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/download/v1.1.2/windowsdesktop-runtime-5.0.6-win-x64.exe
+https://www.youtube.com/watch?v=5mwm4di_MO0
+
+寻找节点的方法
+ 
+在github.com搜索wuxinqi/xuan下载并解压，点击运行里面nodesCatch黑色图标，把从不同地方找到的节点导入，一键测试。全选复制粘贴到winxary或SSTAP或clash.net中使用即可科学上网。
+ 还有一种找节点的方法是在已有的clash配置文件中找，复制粘贴到winxary再转至测速软件导出。
+下载地址https://www.winxray.com/
+点击下载来到下载中心
+https://www.winxray.com/%e4%b8%8b%e8%bd%bd%e4%b8%ad%e5%bf%83
+点击免费节点
+https://www.winxray.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9
+点击下方
+https://github.com/freefq/free/blob/master/v2
+或下方地址进行搜索
+https://duckduckgo.com/?q=https%3A%2F%2Fgithub.com%2Ffreefq%2Ffree%2Fblob%2Fmaster%2Fv2+%3D&atb=v1-1&ia=web
+复制粘贴到winxary再转至测速软件导出。
+ 
+https://duckduckgo.com/?q=https%3A%2F%2Fgithub.com%2Ffreefq%2Ffree%2Fblob%2Fmaster%2Fv2+%3D&atb=v1-1&ia=web
+ 
+https://duckduckgo.com/?q=https%3A%2F%2Fgithub.com%2Ffreefq%2Ffree%2Fblob%2Fmaster%2Fv2+%3D&atb=v1-1&ia=web
+https://github.com/wuxinqi/winxary/tree/main
+ 
